@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp\\WEApiFor30mins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD182D-FA66-4CD0-A042-A40928114551}|WEApiFor30mins\\WEApiFor30mins.csproj|c:\\csharp\\weapifor30mins\\weapifor30mins\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26BD182D-FA66-4CD0-A042-A40928114551}|WEApiFor30mins\\WEApiFor30mins.csproj|solutionrelative:weapifor30mins\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD182D-FA66-4CD0-A042-A40928114551}|WEApiFor30mins\\WEApiFor30mins.csproj|c:\\csharp\\weapifor30mins\\weapifor30mins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD182D-FA66-4CD0-A042-A40928114551}|WEApiFor30mins\\WEApiFor30mins.csproj|solutionrelative:weapifor30mins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD182D-FA66-4CD0-A042-A40928114551}|WEApiFor30mins\\WEApiFor30mins.csproj|c:\\csharp\\weapifor30mins\\weapifor30mins\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26BD182D-FA66-4CD0-A042-A40928114551}|WEApiFor30mins\\WEApiFor30mins.csproj|solutionrelative:weapifor30mins\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD182D-FA66-4CD0-A042-A40928114551}|WEApiFor30mins\\WEApiFor30mins.csproj|c:\\csharp\\weapifor30mins\\weapifor30mins\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD182D-FA66-4CD0-A042-A40928114551}|WEApiFor30mins\\WEApiFor30mins.csproj|solutionrelative:weapifor30mins\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Migrations\\20260424014430_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WEApiFor30mins\\Migrations\\20260424014430_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD182D-FA66-4CD0-A042-A40928114551}|WEApiFor30mins\\WEApiFor30mins.csproj|c:\\csharp\\weapifor30mins\\weapifor30mins\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD182D-FA66-4CD0-A042-A40928114551}|WEApiFor30mins\\WEApiFor30mins.csproj|solutionrelative:weapifor30mins\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD182D-FA66-4CD0-A042-A40928114551}|WEApiFor30mins\\WEApiFor30mins.csproj|c:\\csharp\\weapifor30mins\\weapifor30mins\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD182D-FA66-4CD0-A042-A40928114551}|WEApiFor30mins\\WEApiFor30mins.csproj|solutionrelative:weapifor30mins\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WEApiFor30mins\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WEApiFor30mins\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T02:29:58.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "WEApiFor30mins\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "WEApiFor30mins\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T01:50:32.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260424014430_Initial.cs",
+              "DocumentMoniker": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Migrations\\20260424014430_Initial.cs",
+              "RelativeDocumentMoniker": "WEApiFor30mins\\Migrations\\20260424014430_Initial.cs",
+              "ToolTip": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Migrations\\20260424014430_Initial.cs",
+              "RelativeToolTip": "WEApiFor30mins\\Migrations\\20260424014430_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T01:44:31.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Program.cs",
+              "RelativeDocumentMoniker": "WEApiFor30mins\\Program.cs",
+              "ToolTip": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Program.cs",
+              "RelativeToolTip": "WEApiFor30mins\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T01:26:01.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\appsettings.json",
+              "RelativeDocumentMoniker": "WEApiFor30mins\\appsettings.json",
+              "ToolTip": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\appsettings.json",
+              "RelativeToolTip": "WEApiFor30mins\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T01:33:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "WEApiFor30mins\\Models\\MovieContext.cs",
+              "ToolTip": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Models\\MovieContext.cs",
+              "RelativeToolTip": "WEApiFor30mins\\Models\\MovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T01:30:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "WEApiFor30mins\\Models\\Movie.cs",
+              "ToolTip": "C:\\Csharp\\WEApiFor30mins\\WEApiFor30mins\\Models\\Movie.cs",
+              "RelativeToolTip": "WEApiFor30mins\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T01:23:36.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

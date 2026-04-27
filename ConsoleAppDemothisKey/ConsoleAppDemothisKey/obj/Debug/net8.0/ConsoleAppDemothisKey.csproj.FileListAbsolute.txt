@@ -1,0 +1,14 @@
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\bin\Debug\net8.0\ConsoleAppDemothisKey.exe
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\bin\Debug\net8.0\ConsoleAppDemothisKey.deps.json
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\bin\Debug\net8.0\ConsoleAppDemothisKey.runtimeconfig.json
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\bin\Debug\net8.0\ConsoleAppDemothisKey.dll
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\bin\Debug\net8.0\ConsoleAppDemothisKey.pdb
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\obj\Debug\net8.0\ConsoleAppDemothisKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\obj\Debug\net8.0\ConsoleAppDemothisKey.AssemblyInfoInputs.cache
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\obj\Debug\net8.0\ConsoleAppDemothisKey.AssemblyInfo.cs
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\obj\Debug\net8.0\ConsoleAppDemothisKey.csproj.CoreCompileInputs.cache
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\obj\Debug\net8.0\ConsoleAppDemothisKey.dll
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\obj\Debug\net8.0\refint\ConsoleAppDemothisKey.dll
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\obj\Debug\net8.0\ConsoleAppDemothisKey.pdb
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\obj\Debug\net8.0\ConsoleAppDemothisKey.genruntimeconfig.cache
+C:\Csharp\ConsoleAppDemothisKey\ConsoleAppDemothisKey\obj\Debug\net8.0\ref\ConsoleAppDemothisKey.dll

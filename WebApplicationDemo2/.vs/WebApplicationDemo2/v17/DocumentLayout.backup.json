@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp\\WebApplicationDemo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F5B76C-0FC1-4886-9E6A-1E54338E0F6D}|WebApplicationDemo2\\WebApplicationDemo2.csproj|c:\\csharp\\webapplicationdemo2\\webapplicationdemo2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4F5B76C-0FC1-4886-9E6A-1E54338E0F6D}|WebApplicationDemo2\\WebApplicationDemo2.csproj|solutionrelative:webapplicationdemo2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F5B76C-0FC1-4886-9E6A-1E54338E0F6D}|WebApplicationDemo2\\WebApplicationDemo2.csproj|c:\\csharp\\webapplicationdemo2\\webapplicationdemo2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4F5B76C-0FC1-4886-9E6A-1E54338E0F6D}|WebApplicationDemo2\\WebApplicationDemo2.csproj|solutionrelative:webapplicationdemo2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F5B76C-0FC1-4886-9E6A-1E54338E0F6D}|WebApplicationDemo2\\WebApplicationDemo2.csproj|c:\\csharp\\webapplicationdemo2\\webapplicationdemo2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F5B76C-0FC1-4886-9E6A-1E54338E0F6D}|WebApplicationDemo2\\WebApplicationDemo2.csproj|solutionrelative:webapplicationdemo2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F5B76C-0FC1-4886-9E6A-1E54338E0F6D}|WebApplicationDemo2\\WebApplicationDemo2.csproj|c:\\csharp\\webapplicationdemo2\\webapplicationdemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F5B76C-0FC1-4886-9E6A-1E54338E0F6D}|WebApplicationDemo2\\WebApplicationDemo2.csproj|solutionrelative:webapplicationdemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F5B76C-0FC1-4886-9E6A-1E54338E0F6D}|WebApplicationDemo2\\WebApplicationDemo2.csproj|c:\\csharp\\webapplicationdemo2\\webapplicationdemo2\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F5B76C-0FC1-4886-9E6A-1E54338E0F6D}|WebApplicationDemo2\\WebApplicationDemo2.csproj|solutionrelative:webapplicationdemo2\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F5B76C-0FC1-4886-9E6A-1E54338E0F6D}|WebApplicationDemo2\\WebApplicationDemo2.csproj|c:\\csharp\\webapplicationdemo2\\webapplicationdemo2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F5B76C-0FC1-4886-9E6A-1E54338E0F6D}|WebApplicationDemo2\\WebApplicationDemo2.csproj|solutionrelative:webapplicationdemo2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Csharp\\WebApplicationDemo2\\WebApplicationDemo2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplicationDemo2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Csharp\\WebApplicationDemo2\\WebApplicationDemo2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplicationDemo2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwCIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-27T15:36:35.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Csharp\\WebApplicationDemo2\\WebApplicationDemo2\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "WebApplicationDemo2\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Csharp\\WebApplicationDemo2\\WebApplicationDemo2\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "WebApplicationDemo2\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:29:00.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp\\WebApplicationDemo2\\WebApplicationDemo2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationDemo2\\Program.cs",
+              "ToolTip": "C:\\Csharp\\WebApplicationDemo2\\WebApplicationDemo2\\Program.cs",
+              "RelativeToolTip": "WebApplicationDemo2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:20:34.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Csharp\\WebApplicationDemo2\\WebApplicationDemo2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationDemo2\\appsettings.json",
+              "ToolTip": "C:\\Csharp\\WebApplicationDemo2\\WebApplicationDemo2\\appsettings.json",
+              "RelativeToolTip": "WebApplicationDemo2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-27T15:18:09.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Csharp\\WebApplicationDemo2\\WebApplicationDemo2\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationDemo2\\Models\\MovieContext.cs",
+              "ToolTip": "C:\\Csharp\\WebApplicationDemo2\\WebApplicationDemo2\\Models\\MovieContext.cs",
+              "RelativeToolTip": "WebApplicationDemo2\\Models\\MovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:14:48.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Csharp\\WebApplicationDemo2\\WebApplicationDemo2\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "WebApplicationDemo2\\Models\\Movie.cs",
+              "ToolTip": "C:\\Csharp\\WebApplicationDemo2\\WebApplicationDemo2\\Models\\Movie.cs",
+              "RelativeToolTip": "WebApplicationDemo2\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:11:11.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

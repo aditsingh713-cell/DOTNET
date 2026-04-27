@@ -1,0 +1,14 @@
+C:\Csharp\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\Csharp\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.AssemblyInfo.cs
+C:\Csharp\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Csharp\DelegateDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.exe
+C:\Csharp\DelegateDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.deps.json
+C:\Csharp\DelegateDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.runtimeconfig.json
+C:\Csharp\DelegateDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.dll
+C:\Csharp\DelegateDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.pdb
+C:\Csharp\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.dll
+C:\Csharp\DelegateDemo\DelegateDemo\obj\Debug\net8.0\refint\DelegateDemo.dll
+C:\Csharp\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.pdb
+C:\Csharp\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.genruntimeconfig.cache
+C:\Csharp\DelegateDemo\DelegateDemo\obj\Debug\net8.0\ref\DelegateDemo.dll

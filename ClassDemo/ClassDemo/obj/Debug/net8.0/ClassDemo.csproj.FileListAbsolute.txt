@@ -1,0 +1,14 @@
+C:\Csharp\ClassDemo\ClassDemo\bin\Debug\net8.0\ClassDemo.exe
+C:\Csharp\ClassDemo\ClassDemo\bin\Debug\net8.0\ClassDemo.deps.json
+C:\Csharp\ClassDemo\ClassDemo\bin\Debug\net8.0\ClassDemo.runtimeconfig.json
+C:\Csharp\ClassDemo\ClassDemo\bin\Debug\net8.0\ClassDemo.dll
+C:\Csharp\ClassDemo\ClassDemo\bin\Debug\net8.0\ClassDemo.pdb
+C:\Csharp\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.AssemblyInfoInputs.cache
+C:\Csharp\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.AssemblyInfo.cs
+C:\Csharp\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Csharp\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.dll
+C:\Csharp\ClassDemo\ClassDemo\obj\Debug\net8.0\refint\ClassDemo.dll
+C:\Csharp\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.pdb
+C:\Csharp\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.genruntimeconfig.cache
+C:\Csharp\ClassDemo\ClassDemo\obj\Debug\net8.0\ref\ClassDemo.dll
