@@ -1,0 +1,96 @@
+﻿@page "/products"
+@inject ProductService ProductService
+@rendermode InteractiveServer
+
+<PageTitle>Product Management</PageTitle>
+
+<div class="container mt-4">
+    <h2>Product Catalog (CRUD)</h2>
+
+    <div class="card p-3 my-4 bg-light">
+        <h4>@(currentProduct.Id == 0 ? "Add New Product" : $"Edit Product #{currentProduct.Id}")</h4>
+        <EditForm Model="currentProduct" OnValidSubmit="HandleSave">
+            <div class="row g-3">
+                <div class="col-md-5">
+                    <input type="text" class="form-control" placeholder="Product Name" @bind-value="currentProduct.Name" required />
+                </div>
+                <div class="col-md-3">
+                    <input type="number" step="0.01" class="form-control" placeholder="Price" @bind-value="currentProduct.Price" required />
+                </div>
+                <div class="col-md-4">
+                    <button type="submit" class="btn btn-success me-2">Save</button>
+                    @if (currentProduct.Id != 0)
+                    {
+                        <button type="button" class="btn btn-secondary" @onclick="ClearForm">Cancel</button>
+                    }
+                </div>
+            </div>
+        </EditForm>
+    </div>
+
+    <table class="table table-striped table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th class="text-center">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var prod in products)
+            {
+                <tr>
+                    <td>@prod.Id</td>
+                    <td>@prod.Name</td>
+                    <td>@prod.Price.ToString("C")</td>
+                    <td class="text-center">
+                        <button class="btn btn-primary btn-sm me-2" @onclick="() => PopulateFormForEdit(prod)">Edit</button>
+                        <button class="btn btn-danger btn-sm" @onclick="() => ExecuteDelete(prod.Id)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@code {
+    private List<Product> products = new();
+    private Product currentProduct = new(); // Holds form state
+
+    // Automatically fires when the component initializes
+    protected override void OnInitialized()
+    {
+        RefreshList();
+    }
+
+    private void RefreshList()
+    {
+        products = ProductService.GetProducts();
+    }
+
+    private void HandleSave()
+    {
+        ProductService.SaveProduct(currentProduct);
+        ClearForm();
+        RefreshList();
+    }
+
+    private void PopulateFormForEdit(Product prod)
+    {
+        // Clone object so changes don't reflect live in the list until saved
+        currentProduct = new Product { Id = prod.Id, Name = prod.Name, Price = prod.Price };
+    }
+
+    private void ExecuteDelete(int id)
+    {
+        ProductService.DeleteProduct(id);
+        RefreshList();
+        if (currentProduct.Id == id) ClearForm();
+    }
+
+    private void ClearForm()
+    {
+        currentProduct = new Product();
+    }
+}
