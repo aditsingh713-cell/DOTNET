@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\DOTNET\\WebAPI2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|c:\\git\\dotnet\\webapi2\\webapi2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|c:\\git\\dotnet\\webapi2\\webapi2\\filters\\departmentactionlogfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\filters\\departmentactionlogfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|c:\\git\\dotnet\\webapi2\\webapi2\\model\\departmentlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\model\\departmentlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|c:\\git\\dotnet\\webapi2\\webapi2\\dto\\departmentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\dto\\departmentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|c:\\git\\dotnet\\webapi2\\webapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|c:\\git\\dotnet\\webapi2\\webapi2\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|c:\\git\\dotnet\\webapi2\\webapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65416918-3B74-8223-8A02-5B648211035A}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentLog.cs",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\Model\\DepartmentLog.cs",
+              "RelativeDocumentMoniker": "WebAPI2\\Model\\DepartmentLog.cs",
+              "ToolTip": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\Model\\DepartmentLog.cs",
+              "RelativeToolTip": "WebAPI2\\Model\\DepartmentLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T02:10:51.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentActionLogFilter.cs",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\Filters\\DepartmentActionLogFilter.cs",
+              "RelativeDocumentMoniker": "WebAPI2\\Filters\\DepartmentActionLogFilter.cs",
+              "ToolTip": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\Filters\\DepartmentActionLogFilter.cs",
+              "RelativeToolTip": "WebAPI2\\Filters\\DepartmentActionLogFilter.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T01:53:26.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebAPI2\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebAPI2\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:47:23.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI2\\appsettings.json",
+              "ToolTip": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\appsettings.json",
+              "RelativeToolTip": "WebAPI2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-25T19:45:06.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentDB.cs",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\DTO\\DepartmentDB.cs",
+              "RelativeDocumentMoniker": "WebAPI2\\DTO\\DepartmentDB.cs",
+              "ToolTip": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\DTO\\DepartmentDB.cs",
+              "RelativeToolTip": "WebAPI2\\DTO\\DepartmentDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:41:40.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "WebAPI2\\Model\\Department.cs",
+              "ToolTip": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\Model\\Department.cs",
+              "RelativeToolTip": "WebAPI2\\Model\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:39:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI2\\Program.cs",
+              "ToolTip": "C:\\Git\\DOTNET\\WebAPI2\\WebAPI2\\Program.cs",
+              "RelativeToolTip": "WebAPI2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:35:04.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
