@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yhftTNBTyIw=",
+  "dgSpecHash": "gTs//DE/zpE=",
   "success": true,
-  "projectFilePath": "C:\\Csharp\\DOTNET\\BookLibraryApp\\BookLibraryApp\\BookLibraryApp.csproj",
+  "projectFilePath": "C:\\Git\\DOTNET\\BookLibraryApp\\BookLibraryApp\\BookLibraryApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sadit\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\sadit\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

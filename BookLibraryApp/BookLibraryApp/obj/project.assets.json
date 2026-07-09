@@ -7353,11 +7353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Csharp\\DOTNET\\BookLibraryApp\\BookLibraryApp\\BookLibraryApp.csproj",
+      "projectUniqueName": "C:\\Git\\DOTNET\\BookLibraryApp\\BookLibraryApp\\BookLibraryApp.csproj",
       "projectName": "BookLibraryApp",
-      "projectPath": "C:\\Csharp\\DOTNET\\BookLibraryApp\\BookLibraryApp\\BookLibraryApp.csproj",
+      "projectPath": "C:\\Git\\DOTNET\\BookLibraryApp\\BookLibraryApp\\BookLibraryApp.csproj",
       "packagesPath": "C:\\Users\\sadit\\.nuget\\packages\\",
-      "outputPath": "C:\\Csharp\\DOTNET\\BookLibraryApp\\BookLibraryApp\\obj\\",
+      "outputPath": "C:\\Git\\DOTNET\\BookLibraryApp\\BookLibraryApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7434,7 +7434,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

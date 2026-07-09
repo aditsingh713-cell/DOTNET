@@ -1,0 +1,6 @@
+@CricketProfile_HostAddress = http://localhost:5285
+
+GET {{CricketProfile_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

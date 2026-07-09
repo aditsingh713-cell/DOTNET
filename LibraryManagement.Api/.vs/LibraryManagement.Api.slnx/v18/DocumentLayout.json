@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Git\\DOTNET\\LibraryManagement.Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA27D7-E93B-3A87-7DE3-85135270BD61}|LibraryManagement.Api\\LibraryManagement.Api.csproj|c:\\git\\dotnet\\librarymanagement.api\\librarymanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76BA27D7-E93B-3A87-7DE3-85135270BD61}|LibraryManagement.Api\\LibraryManagement.Api.csproj|solutionrelative:librarymanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\LibraryManagement.Api\\LibraryManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement.Api\\appsettings.json",
+              "ToolTip": "C:\\Git\\DOTNET\\LibraryManagement.Api\\LibraryManagement.Api\\appsettings.json",
+              "RelativeToolTip": "LibraryManagement.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-27T00:34:50.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\DOTNET\\CricketProfile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1CC3B5-0265-465E-B440-75A269AADE1B}|CricketProfile\\CricketProfile.csproj|c:\\git\\dotnet\\cricketprofile\\cricketprofile\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1CC3B5-0265-465E-B440-75A269AADE1B}|CricketProfile\\CricketProfile.csproj|solutionrelative:cricketprofile\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1CC3B5-0265-465E-B440-75A269AADE1B}|CricketProfile\\CricketProfile.csproj|c:\\git\\dotnet\\cricketprofile\\cricketprofile\\model\\crickdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1CC3B5-0265-465E-B440-75A269AADE1B}|CricketProfile\\CricketProfile.csproj|solutionrelative:cricketprofile\\model\\crickdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1CC3B5-0265-465E-B440-75A269AADE1B}|CricketProfile\\CricketProfile.csproj|c:\\git\\dotnet\\cricketprofile\\cricketprofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1CC3B5-0265-465E-B440-75A269AADE1B}|CricketProfile\\CricketProfile.csproj|solutionrelative:cricketprofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1CC3B5-0265-465E-B440-75A269AADE1B}|CricketProfile\\CricketProfile.csproj|c:\\git\\dotnet\\cricketprofile\\cricketprofile\\model\\cricketerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1CC3B5-0265-465E-B440-75A269AADE1B}|CricketProfile\\CricketProfile.csproj|solutionrelative:cricketprofile\\model\\cricketerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1CC3B5-0265-465E-B440-75A269AADE1B}|CricketProfile\\CricketProfile.csproj|c:\\git\\dotnet\\cricketprofile\\cricketprofile\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB1CC3B5-0265-465E-B440-75A269AADE1B}|CricketProfile\\CricketProfile.csproj|solutionrelative:cricketprofile\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1CC3B5-0265-465E-B440-75A269AADE1B}|CricketProfile\\CricketProfile.csproj|c:\\git\\dotnet\\cricketprofile\\cricketprofile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB1CC3B5-0265-465E-B440-75A269AADE1B}|CricketProfile\\CricketProfile.csproj|solutionrelative:cricketprofile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\CricketProfile\\CricketProfile\\Program.cs",
+              "RelativeDocumentMoniker": "CricketProfile\\Program.cs",
+              "ToolTip": "C:\\Git\\DOTNET\\CricketProfile\\CricketProfile\\Program.cs",
+              "RelativeToolTip": "CricketProfile\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T01:41:30.744Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\CricketProfile\\CricketProfile\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CricketProfile\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Git\\DOTNET\\CricketProfile\\CricketProfile\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CricketProfile\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-08T01:50:52.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreController.cs",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\CricketProfile\\CricketProfile\\Controllers\\ScoreController.cs",
+              "RelativeDocumentMoniker": "CricketProfile\\Controllers\\ScoreController.cs",
+              "ToolTip": "C:\\Git\\DOTNET\\CricketProfile\\CricketProfile\\Controllers\\ScoreController.cs",
+              "RelativeToolTip": "CricketProfile\\Controllers\\ScoreController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T01:48:46.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\CricketProfile\\CricketProfile\\appsettings.json",
+              "RelativeDocumentMoniker": "CricketProfile\\appsettings.json",
+              "ToolTip": "C:\\Git\\DOTNET\\CricketProfile\\CricketProfile\\appsettings.json",
+              "RelativeToolTip": "CricketProfile\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-08T01:42:18.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrickDbContext.cs",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\CricketProfile\\CricketProfile\\Model\\CrickDbContext.cs",
+              "RelativeDocumentMoniker": "CricketProfile\\Model\\CrickDbContext.cs",
+              "ToolTip": "C:\\Git\\DOTNET\\CricketProfile\\CricketProfile\\Model\\CrickDbContext.cs",
+              "RelativeToolTip": "CricketProfile\\Model\\CrickDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T01:38:59.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CricketerProfile.cs",
+              "DocumentMoniker": "C:\\Git\\DOTNET\\CricketProfile\\CricketProfile\\Model\\CricketerProfile.cs",
+              "RelativeDocumentMoniker": "CricketProfile\\Model\\CricketerProfile.cs",
+              "ToolTip": "C:\\Git\\DOTNET\\CricketProfile\\CricketProfile\\Model\\CricketerProfile.cs",
+              "RelativeToolTip": "CricketProfile\\Model\\CricketerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T01:34:56.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
